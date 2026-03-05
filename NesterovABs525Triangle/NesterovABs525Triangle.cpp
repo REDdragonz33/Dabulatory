@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <cmath>
 #include "geometry.h"
 
 using namespace std;
@@ -14,7 +15,7 @@ void Triangle() {
     else {
         P = a + b + c;
         halfP = P / 2;
-        sGer = sqrt(P * (P - a) * (P - b) * (P - c));
+        sGer = sqrt(halfP * (halfP - a) * (halfP - b) * (halfP - c));
         cout << "\nПериметр: " << P << "\n";
         cout << "Прощадь по формуле Герона: " << sGer << "\n";
 
