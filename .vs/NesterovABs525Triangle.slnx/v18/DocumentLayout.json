@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vstudio\\NesterovABs525Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DCA43E-D1FD-46D2-B306-8637791508EE}|NesterovABs525Triangle\\NesterovABs525Triangle.vcxproj|D:\\Vstudio\\NesterovABs525Triangle\\NesterovABs525Triangle\\NesterovABs525Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98DCA43E-D1FD-46D2-B306-8637791508EE}|NesterovABs525Triangle\\NesterovABs525Triangle.vcxproj|solutionrelative:NesterovABs525Triangle\\NesterovABs525Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NesterovABs525Triangle.cpp",
+              "DocumentMoniker": "D:\\Vstudio\\NesterovABs525Triangle\\NesterovABs525Triangle\\NesterovABs525Triangle.cpp",
+              "RelativeDocumentMoniker": "NesterovABs525Triangle\\NesterovABs525Triangle.cpp",
+              "ToolTip": "D:\\Vstudio\\NesterovABs525Triangle\\NesterovABs525Triangle\\NesterovABs525Triangle.cpp",
+              "RelativeToolTip": "NesterovABs525Triangle\\NesterovABs525Triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T04:14:38.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

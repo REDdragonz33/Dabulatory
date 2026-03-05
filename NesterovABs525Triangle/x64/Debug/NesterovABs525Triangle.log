@@ -1,0 +1,3 @@
+﻿  NesterovABs525Triangle.cpp
+D:\Vstudio\NesterovABs525Triangle\NesterovABs525Triangle\NesterovABs525Triangle.cpp(16,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  NesterovABs525Triangle.vcxproj -> D:\Vstudio\NesterovABs525Triangle\x64\Debug\NesterovABs525Triangle.exe
