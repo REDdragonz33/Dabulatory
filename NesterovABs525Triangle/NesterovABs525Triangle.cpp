@@ -1,10 +1,9 @@
 ﻿#include <iostream>
 #include <cmath>
-#include "geometry.h"
 
 using namespace std;
 
-void Triangle() {
+int main() {
     setlocale(LC_ALL, "rus");
     int a, b, c, halfP, P, sGer;
 
