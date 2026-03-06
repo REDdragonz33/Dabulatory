@@ -1,10 +1,9 @@
-#include "geometry.h"
 #include <iostream>
 #include <cmath>
 
 using namespace std;
 
-main  Rectangle(){
+int main(){
 
 	double a,b;
 	double sRect, pRect, dRect; 
@@ -15,7 +14,7 @@ main  Rectangle(){
 
 	if (a <= 0 or b <= 0){
 		cout << "Ошибка. Стороны должны быть положительны.";
-		return=1;
+		return 1;
 	}
 
 	sRect = a * b;
@@ -26,5 +25,5 @@ main  Rectangle(){
 	cout << "Периметр прямоугольника:" << pRect << endl;
 	cout << "Диагональ прямоугольника:" << dRect << endl;
 
-	return=0;
+	return 0;
 }
