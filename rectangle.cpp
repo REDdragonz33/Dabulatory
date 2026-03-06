@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void Rectangle(){
+main  Rectangle(){
 
 	double a,b;
 	double sRect, pRect, dRect; 
@@ -15,7 +15,7 @@ void Rectangle(){
 
 	if (a <= 0 or b <= 0){
 		cout << "Ошибка. Стороны должны быть положительны.";
-		return;
+		return=1;
 	}
 
 	sRect = a * b;
@@ -26,5 +26,5 @@ void Rectangle(){
 	cout << "Периметр прямоугольника:" << pRect << endl;
 	cout << "Диагональ прямоугольника:" << dRect << endl;
 
-	return;
+	return=0;
 }
