@@ -23,7 +23,7 @@ int main() {
    cout << "Трапеции не существует" << endl;
    return 0;
    }
-
+//tyghyhhuuhy
 
     double ploshad = (a + b) / 2.0 * h; 
     double srLinia = (a + b) / 2.0;
