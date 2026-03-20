@@ -15,6 +15,16 @@ int main() {
     cout << "Значения должны быть больше нуля" << endl;
     return 0;
     }
+    if ( c <= h || d <= h){
+    cout << "Трапеции не существует" << endl;
+    return 0;
+    }
+   if ( (a + b + c) <= d || (a + b + d) <= c || (a + c + d) <= b || (c + b + d <= a)){
+   cout << "Трапеции не существует" << endl;
+   return 0;
+   }
+
+
     double ploshad = (a + b) / 2.0 * h; 
     double srLinia = (a + b) / 2.0;
     double perimetr = a + b + c + d; 
