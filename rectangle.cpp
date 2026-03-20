@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-//тут коммент
+//тут коммент новый супер крутой
 using namespace std;
 
 int main(){
